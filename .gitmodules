@@ -1,3 +1,6 @@
 [submodule "mtr"]
 	path = mtr
 	url = https://github.com/deamwork/mtr.git
+[submodule "inetutils"]
+	path = inetutils
+	url = https://github.com/deamwork/inetutils.git
