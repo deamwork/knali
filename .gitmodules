@@ -4,3 +4,6 @@
 [submodule "inetutils"]
 	path = inetutils
 	url = https://github.com/deamwork/inetutils.git
+[submodule "bind9"]
+	path = bind9
+	url = https://github.com/deamwork/bind9.git
